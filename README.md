@@ -25,7 +25,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```
+```html
 <!DOCTYPE html>
 <html>
     <header><center><img src="logo.png" alt="Logo" height="200" width="800"></center></header>
